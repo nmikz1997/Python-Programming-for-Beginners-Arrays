@@ -44,4 +44,5 @@ Arrays (or lists) are a powerful and essential part of Python. Whether you're us
 
 ## Further Reading
 [Python List Documentation](https://pythonid.com/tutorials/python-lists)
+
 [Python Array Documentation](https://pythonid.com/tutorials/python-arrays)
